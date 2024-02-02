@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/React-Dneprosila/static/css/main.6e147a1b.css",
-    "main.js": "/React-Dneprosila/static/js/main.428e3dc7.js",
+    "main.css": "/React-Dneprosila/static/css/main.5691ac63.css",
+    "main.js": "/React-Dneprosila/static/js/main.66bbc6b6.js",
     "index.html": "/React-Dneprosila/index.html",
-    "main.6e147a1b.css.map": "/React-Dneprosila/static/css/main.6e147a1b.css.map",
-    "main.428e3dc7.js.map": "/React-Dneprosila/static/js/main.428e3dc7.js.map"
+    "main.5691ac63.css.map": "/React-Dneprosila/static/css/main.5691ac63.css.map",
+    "main.66bbc6b6.js.map": "/React-Dneprosila/static/js/main.66bbc6b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e147a1b.css",
-    "static/js/main.428e3dc7.js"
+    "static/css/main.5691ac63.css",
+    "static/js/main.66bbc6b6.js"
   ]
 }
